@@ -37,7 +37,7 @@ public class QuizGame {
             System.out.println("************");
             System.out.println("Wow!Correct Answer,Bro");
             System.out.println("*************");
-            //score++;
+            score++;
         }else {
             System.out.println("Opps!Wrong Answer,Try again");}}
 
